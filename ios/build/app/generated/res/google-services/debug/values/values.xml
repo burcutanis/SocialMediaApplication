@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">456266403040-sb0qtt80foksm86mblq21dcg1bgqpprs.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cs310termproject-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">456266403040</string>
+    <string name="google_api_key" translatable="false">AIzaSyA0D9kzx6FrDLqXoQgT_IfJFRMkAv2iBsM</string>
+    <string name="google_app_id" translatable="false">1:456266403040:android:93b73ee2f6aaa7bf671485</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA0D9kzx6FrDLqXoQgT_IfJFRMkAv2iBsM</string>
+    <string name="google_storage_bucket" translatable="false">cs310termproject.appspot.com</string>
+    <string name="project_id" translatable="false">cs310termproject</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456266403040",
+    "firebase_url": "https://cs310termproject-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cs310termproject",
+    "storage_bucket": "cs310termproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456266403040:android:93b73ee2f6aaa7bf671485",
+        "android_client_info": {
+          "package_name": "com.example.cs310_term_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456266403040-sb0qtt80foksm86mblq21dcg1bgqpprs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0D9kzx6FrDLqXoQgT_IfJFRMkAv2iBsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456266403040-sb0qtt80foksm86mblq21dcg1bgqpprs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "456266403040-m2h5ptq8nqbv0d0en9qnhrpm6hnr70lc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

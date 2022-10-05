@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Flutter_CS310\\cs310_term_project-step5\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-2\\files-2.1\\340f73096e343129323054dd621e22bf\\core-1.8.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Flutter_CS310\\cs310_term_project-step5\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-2\\files-2.1\\340f73096e343129323054dd621e22bf\\core-1.8.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Flutter_CS310\\cs310_term_project-step5\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-2\\files-2.1\\340f73096e343129323054dd621e22bf\\core-1.8.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Flutter_CS310\\cs310_term_project-step5\\build\\image_picker_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Burcu\\.gradle\\caches\\transforms-2\\files-2.1\\340f73096e343129323054dd621e22bf\\core-1.8.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]
